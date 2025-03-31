@@ -1,4 +1,4 @@
-# Flutter web
+# Flutter web View
 
 A Flutter project that serves as a starting point for building a mobile application.
 
@@ -16,23 +16,12 @@ This Flutter project provides a basic template to get started with mobile app de
 
 This project is a template for Flutter development that integrates a WebView to display a web app on your phone. The app allows the web app inside the WebView to access the camera and file system for additional functionalities. The project handles permission requests for camera and file access to ensure a smooth user experience.
 
-## Getting Started
-
-Follow the steps below to get this project up and running on your local machine.
-
-### Prerequisites
-
-Before you start, ensure you have the following installed:
-
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Dart SDK: [Install Dart](https://dart.dev/get-dart)
-- Android Studio or Visual Studio Code (for editing and running the project)
 
 ### Steps to Run
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/ncell_test.git
+    git clone https://github.com/SoftAyush/Flutter-webview.git
     ```
 
 2. Navigate into the project directory:
@@ -50,13 +39,6 @@ Before you start, ensure you have the following installed:
     flutter run
     ```
 
-## Additional Resources
-
-If you're new to Flutter, here are a few resources to help you get started:
-
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Flutter YouTube Channel](https://www.youtube.com/flutterdev)
-- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
 
 ## Contributions
 
@@ -66,6 +48,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This new version includes the features you're implementing in the app (camera and file access via the WebView). Let me know if you'd like to add or change anything else!
